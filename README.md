@@ -243,7 +243,7 @@ Para visualizar e executar a análise de dados, acesse o notebook no Google Cola
 
 - [**Abrir no Google Colab**](https://colab.research.google.com/drive/1MsMjjU9YuPQruPQ2BV52XXqm78Dbj6tI#scrollTo=NK838cpfEGTW) _(Substitua pelo link compartilhável do seu notebook)_
     
-- [**Visualizar no Repositório**](https://www.google.com/search?q=./RicardoDePaivaMelo_rm565522_pbl_fase4.ipynb "null")
+- [**Visualizar no Repositório**](https://github.com/ricardopaivamelo/FarmTech_na_era_da_cloud_computing/blob/main/RicardoDePaivaMelo_rm565522_pbl_fase4.ipynb)
     
 
 🎥 Vídeo Demonstrativo - Machine Learning (5min):
