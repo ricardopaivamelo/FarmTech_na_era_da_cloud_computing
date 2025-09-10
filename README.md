@@ -258,6 +258,8 @@ Para visualizar e executar a análise de dados, acesse o notebook no Google Cola
 
 ### ☁️ **Análise de Custos AWS (Entrega 2)**
 
+- [**Baixar Arquivo**](https://github.com/ricardopaivamelo/FarmTech_na_era_da_cloud_computing/blob/main/Entrega%202.docx)
+
 🎥 Vídeo Demonstrativo - AWS Calculator (5min):
 
 (https://youtu.be/UK9Mw1R_4zw)
