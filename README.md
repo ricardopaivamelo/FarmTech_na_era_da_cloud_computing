@@ -146,10 +146,8 @@ A performance dos cinco modelos de regressão foi avaliada, e os resultados est�
 
 #### Comparação de Regiões:
 <img width="756" height="360" alt="Imagem1" src="https://github.com/user-attachments/assets/d9da66b8-d3c7-493a-a531-97f84b8e74a7" />
-<img width="756" height="357" alt="Imagem2" src="https://github.com/user-attachments/assets/858bb26d-3c77-4d85-80c8-68d4ededd755" />
-
 _Estimativa de custos para região São Paulo (sa-east-1)_
-
+<img width="756" height="357" alt="Imagem2" src="https://github.com/user-attachments/assets/858bb26d-3c77-4d85-80c8-68d4ededd755" />
 _Estimativa de custos para região Virgínia do Norte (us-east-1)_
 
 ### 🎯 Decisão e Justificativa Técnica
@@ -241,7 +239,7 @@ projeto-farmtech/
 
 Para visualizar e executar a análise de dados, acesse o notebook no Google Colab ou visualize o arquivo diretamente no repositório.
 
-- [**Abrir no Google Colab**](https://colab.research.google.com/drive/1MsMjjU9YuPQruPQ2BV52XXqm78Dbj6tI#scrollTo=NK838cpfEGTW) _(Substitua pelo link compartilhável do seu notebook)_
+- [**Abrir no Google Colab**](https://colab.research.google.com/drive/1MsMjjU9YuPQruPQ2BV52XXqm78Dbj6tI#scrollTo=NK838cpfEGTW)
     
 - [**Visualizar no Repositório**](https://github.com/ricardopaivamelo/FarmTech_na_era_da_cloud_computing/blob/main/RicardoDePaivaMelo_rm565522_pbl_fase4.ipynb)
     
